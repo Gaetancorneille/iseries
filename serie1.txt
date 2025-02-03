@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Streaming - Charmed</title>
+    <link rel="stylesheet" href="serie6.css">
+</head>
+<body>
+    <!-- Header -->
+    <header>
+        <img src="logo-removebg-preview.png" alt="Site Logo" class="logo">
+        <div class="search-bar">
+            <input type="text" placeholder="Rechercher...">
+            <button type="button">Search</button>
+        </div>
+   </header>        
+        <nav>
+            <ul>
+                <li><a href="aceui.html">Accueil</a></li>
+            <li><a href="sondage.html">Sondage</a></li>
+            <li><a href="article.html">Articles</a></li>
+            <li><a href="streaming.html">Streaming</a></li>
+            </ul>
+        </nav>
+            <!-- Main Content -->
+    <main class="container">
+        <section class="serie-streaming">
+            <h1><img src="charmed.png" alt="Série 2"></h1>
+
+            <!-- Saisons -->
+            <div class="seasons">
+                <h2>Saisons</h2>
+                <ul>
+                    <li><a href="#saison1">Saison 1</a></li>
+                    <li><a href="#saison2">Saison 2</a></li>
+                    <!-- Ajouter autant de saisons que nécessaire -->
+                </ul>
+            </div>
+            </section>
+<section class="streaming-content">
+            <h1>Séries en Streaming</h1>
+            <div class="series-grid">
+                <div class="series-card">
+                    <img src="20240210_085940.jpg" alt="Série 1">
+                    <h2>The Flash</h2>
+                    <a href="serie1.html" class="watch-button">Regarder</a>
+                </div>
+                <div class="series-card">
+                    <img src="20240210_090018.jpg" alt="Série 2">
+                    <h2>The Vampire Diaries</h2>
+                    <a href="serie2.html" class="watch-button">Regarder</a>
+                </div>
+                <div class="series-card">
+                    <img src="Screenshot_20231017-211543.jpg" alt="Série 2">
+                    <h2>Mercredi</h2>
+                    <a href="serie3.html" class="watch-button">Regarder</a>
+                </div>
+                <div class="series-card">
+                    <img src="20240208_102817.jpg" alt="Série 2">
+                    <h2>Empire</h2>
+                    <a href="serie4.html" class="watch-button">Regarder</a>
+                </div>
+                <div class="series-card">
+                    <img src="20240208_102901.jpg" alt="Série 2">
+                    <h2>Sweet Magnolias</h2>
+                    <a href="serie5.html" class="watch-button">Regarder</a>
+                </div>
+                <div class="series-card">
+                    <img src="charmed.png" alt="Série 2">
+                    <h2>Charmed</h2>
+                    <a href="serie6.html" class="watch-button">Regarder</a>
+                </div>
+                <div class="series-card">
+                    <img src="onceuponatime.png" alt="Série 2">
+                    <h2>Once Upon a Time</h2>
+                    <a href="serie7.html" class="watch-button">Regarder</a>
+                </div>
+                <div class="series-card">
+                    <img src="Madamemonsieur.jpg" alt="Série 2">
+                    <h2>Madame...Monsieur</h2>
+                    <a href="serie8.html" class="watch-button">Regarder</a>
+                </div>
+                <div class="series-card">
+                    <img src="Screenshot_20231017-211345.jpg" alt="Série 2">
+                    <h2>Suits: Avocats sur Mesure</h2>
+                    <a href="serie9.html" class="watch-button">Regarder</a>
+                </div>
+                <div class="series-card">
+                    <img src="Screenshot_20231017-210531.jpg" alt="Série 2">
+                    <h2>Friends</h2>
+                    <a href="serie10.html" class="watch-button">Regarder</a>
+                </div>
+                <div class="series-card">
+                    <img src="Screenshot_20231017-211928.jpg" alt="Série 2">
+                    <h2>Bull</h2>
+                    <a href="serie11.html" class="watch-button">Regarder</a>
+                </div>
+                <div class="series-card">
+                    <img src="Screenshot_20231017-210257.jpg" alt="Série 2">
+                    <h2>The Big Bang Theory</h2>
+                    <a href="serie12.html" class="watch-button">Regarder</a>
+            </div>
+        </section>
+ <footer>
+        <p>Suivez-nous sur : 
+            <a href="https://www.facebook.com"><img src="logo_facebook-removebg-preview.png" alt="Facebook"></a>
+            <a href="https://www.twitter.com"><img src="logo_twtitter-removebg-preview.png" alt="Twitter"></a>
+            <a href="https://www.instagram.com"><img src="logo_instagram-removebg-preview.png" alt="Instagram"></a>
+            <a href="https://www.tiktok.com"><img src="logo_tiktok-removebg-preview.png" alt="Tik Tok"></a>
+        </p>
+        <p>&copy; 2024 iStart Séries-TV</p>
+    </footer>
+<script>
+    document.addEventListener('DOMContentLoaded', (event) => {
+        const video = document.getElementById('épisode');
+
+        video.addEventListener('play', () => {
+            console.log('La vidéo a commencé à être lue.');
+        });
+
+        video.addEventListener('ended', () => {
+            console.log('La vidéo est terminée.');
+        });
+    });
+</script>
+</body>
+</html>

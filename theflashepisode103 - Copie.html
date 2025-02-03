@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Flash Saison 1 Episode 03</title>
+    <link rel="stylesheet" href="theflashepisode.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+    <header >
+<img src="logo-removebg-preview.png" alt="Site Logo" class="logo">
+        </div>
+        <div class="search-container">
+            <input type="text" id="search-bar" placeholder="Rechercher...">
+            <button id="search-button"><i class="fas fa-search"></i></button>
+        </div>
+        <div id="results-container">
+            <h2>Résultats de la recherche :</h2>
+            <ul id="results"></ul>
+        </div>
+   </header>        
+   <nav>
+    <ul>
+        <li><i class="fas fa-home"></i><a href="index - Copie.html">Accueil</a></li>
+        <li><i class="fas fa-poll"></i><a href="sondage - Copie.html">Sondage</a></li>
+        <li><i class="fas fa-newspaper"></i><a href="article - Copie.html">Articles</a></li>
+        <li><i class="fas fa-tv"></i><a href="streaming - Copie.html">Streaming</a></li>
+    </ul>
+</nav>
+    
+    <main>
+        <h1>Saison 1 Episode 03</h1>
+        <section class="episode-player">
+            <video id="videoPlayer" controls>
+                <source src="E:\GAETANO\Blocs-notes OneNote\1699940010\Shadowhunters\saison 1\shadowhunters SO1E03.mp4" type="video/mp4">
+                Votre navigateur ne supporte pas la lecture de vidéos.
+            </video>
+        </section>
+        
+        <nav class="episode-navigation">
+            <a href="theflashepisode102 - Copie.html" class="nav-button">Épisode Précédent</a>
+        </nav>
+        <nav class="episode-navigation1">
+            <a href="theflashepisode104 - Copie.html" class="nav-button">Épisode Suivant</a>
+        </nav>
+    </main>
+
+    <footer>
+        <div class="footer-container">
+            <div class="footer-menus">
+                <ul>
+                    <li><a href="index - Copie.html">Accueil</a></li>
+                    <li><a href="article - Copie.html">Articles</a></li>
+                    <li><a href="sondage - Copie.html">Sondages</a></li>
+                    <li><a href="streaming - Copie.html">Streaming</a></li>
+                    <li><a href="A_propos.html">À propos</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                    <li><a href="politique_et_confiedentialité.html">Politique de confidentialité</a></li>
+                    <li><a href="termes_et_conditions.html">Termes et conditions</a></li>
+                </ul>
+            </div>
+            <div class="footer-socials">
+                <a href="https://www.facebook.com" target="_blank"><i class="fab fa-facebook-f"></i></a>
+                <a href="https://twitter.com" target="_blank"><i class="fab fa-twitter"></i></a>
+                <a href="https://www.instagram.com" target="_blank"><i class="fab fa-instagram"></i></a>
+                <a href="https://www.tiktok.com" target="_blank"><i class="fab fa-tiktok"></i></a>
+                <a href="https://www.linkedin.com" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+                <a href="https://www.youtube.com" target="_blank"><i class="fab fa-youtube"></i></a>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>&copy; 2024 iStart Séries-TV. Tous droits réservés.</p>
+        </div>
+    </footer>
+
+    <script>
+    document.addEventListener('DOMContentLoaded', (event) => {
+        const video = document.getElementById('trailerVideo');
+
+        video.addEventListener('play', () => {
+            console.log('La vidéo a commencé à être lue.');
+        });
+
+        video.addEventListener('ended', () => {
+            console.log('La vidéo est terminée.');
+        });
+    });
+    const searchBar = document.getElementById('search-bar');
+const searchButton = document.getElementById('search-button');
+const resultsContainer = document.getElementById('results-container');
+const resultsList = document.getElementById('results');
+
+const data = [
+    { type: 'Série', name: 'Breaking Bad' },
+    { type: 'Série', name: 'Game of Thrones' },
+    { type: 'Série', name: 'Friends' },
+    { type: 'Article', name: 'Les meilleures séries de 2024' },
+    { type: 'Article', name: 'Interview avec Bryan Cranston' },
+    { type: 'Episode', name: 'Breaking Bad S01E01' },
+    { type: 'Episode', name: 'Game of Thrones S01E01' },
+    { type: 'Sondage', name: 'Quelle est votre série préférée ?' },
+    { type: 'Acteur', name: 'Bryan Cranston' },
+    { type: 'Acteur', name: 'Emilia Clarke' }
+];
+
+searchButton.addEventListener('click', () => {
+    const query = searchBar.value.toLowerCase();
+    const filteredData = data.filter(item => item.name.toLowerCase().includes(query));
+
+    resultsList.innerHTML = '';
+    if (filteredData.length) {
+        filteredData.forEach(item => {
+            const li = document.createElement('li');
+            li.textContent = `${item.type}: ${item.name}`;
+            resultsList.appendChild(li);
+        });
+        resultsContainer.style.display = 'block';
+    } else {
+        const li = document.createElement('li');
+        li.textContent = 'Aucun résultat trouvé';
+        resultsList.appendChild(li);
+        resultsContainer.style.display = 'block';
+    }
+});
+</script>
+</body>
+</html>

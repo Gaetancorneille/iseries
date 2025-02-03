@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Inscription</title>
+    <link rel="stylesheet" href="Password.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <script>
+        function showAlert(message) {
+            alert(message);
+            return false; // Prevents the default link behavior
+        }
+    </script>
+</head>
+<body>
+    <div class="container">
+        <img src="logo1-removebg-preview.png" alt="Logo du site" class="logo">
+        <h1>Bienvenue sur notre site de séries TV</h1>
+        <p>Découvrez et partagez vos séries TV préférées avec d'autres passionnés. Inscrivez-vous pour profiter de toutes nos fonctionnalités.</p>
+        
+        <form action="register.php" method="POST"">
+            <div class="form-group">
+                <label for="nom">Nom(s) :</label>
+                <input type="text" id="nom" name="nom" >
+            </div>
+            <div class="form-group">
+                <label for="prenom">Prénom(s) :</label>
+                <input type="text" id="prenom" name="prenom">
+            </div>
+            <div class="form-group">
+                <label for="Pseudo">Pseudo :</label>
+                <input type="text" id="Pseudo" name="Pseudo" required>
+            </div>
+            <div class="form-group password-container">
+                <label for="password">Mot de passe :</label>
+                <input type="password" id="password" name="password" required minlength="9" pattern="(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{9,}">
+                <i class="far fa-eye" id="togglePassword"></i>
+                <small>Le mot de passe doit contenir au moins 9 caractères dont au moin sune majuscule, une minuscule et un chiffre.</small>
+            </div>
+            <div class="form-group password-container">
+                <label for="confirm-password">Confirmer le mot de passe :</label>
+                <input type="password" id="confirm-password" name="confirm-password" required minlength="9" pattern="(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{9,}">
+                <i class="far fa-eye" id="toggleConfirmPassword"></i>
+            </div>
+            <div class="form-group">
+                <label for="gender">Genre :</label>
+                <select id="gender" name="gender">
+                    <option value="male">Homme</option>
+                    <option value="female">Femme</option>
+                </select>
+            </div>
+            <button type="submit">S'inscrire</button>
+        </form>
+        <p>Vous avez déjà un compte ? <a href="login - Copie.html">Connectez-vous ici</a>.</p>
+    </div>
+    <footer>
+        <div class="footer-container">
+            <div class="footer-menus">
+                <ul>
+                    <li><a href="index.php">Accueil</a></li>
+                    <li><a href="article.php">Articles</a></li>
+                    <li><a href="sondage2.php?">Sondages</a></li>
+                    <li><a href="streaming2.php?">Streaming</a></li>
+                    <li><a href="À propos.php">À propos</a></li>
+                    <li><a href="Contact.php">Contact</a></li>
+                    <li><a href="Politique de confidentialité.php">Politique de confidentialité</a></li>
+                    <li><a href="Termes et conditions.php">Termes et conditions</a></li>
+                </ul>
+            </div>
+            <div class="footer-socials">
+                <a href="https://www.facebook.com" target="_blank"><i class="fab fa-facebook-f"></i></a>
+                <a href="https://twitter.com" target="_blank"><i class="fab fa-twitter"></i></a>
+                <a href="https://www.instagram.com" target="_blank"><i class="fab fa-instagram"></i></a>
+                <a href="https://www.tiktok.com" target="_blank"><i class="fab fa-tiktok"></i></a>
+                <a href="https://www.linkedin.com" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+                <a href="https://www.youtube.com" target="_blank"><i class="fab fa-youtube"></i></a>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+            </div>
+    </footer>
+    <script src="register.js"></script>
+</body>
+</html>

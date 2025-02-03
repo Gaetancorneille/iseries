@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Connexion</title>
+    <link rel="stylesheet" href="logincss.css">
+</head>
+<body>
+    <header>
+        <img src="logo-removebg-preview.png" alt="Site Logo" class="logo">
+        <div class="search-container">
+            <input type="text" id="search-bar" placeholder="Rechercher...">
+            <button id="search-button"><i class="fas fa-search"></i></button>
+        </div>
+    </header>
+    <main>
+        <div class="auth-container">
+            <h1>Connexion</h1>
+            <form id="login-form" action="login.php" method="post">
+                <label for="username">Nom d'utilisateur :</label>
+                <input type="text" id="username" name="username" required>
+                
+                <label for="password">Mot de passe :</label>
+                <input type="password" id="password" name="password" required>
+                
+                <button type="submit">Se connecter</button>
+                <p>Pas encore inscrit ? <a href="register.html">Inscrivez-vous ici</a></p>
+            </form>
+            <p id="login-error" class="error-message" style="display: none;">Identifiant ou mot de passe incorrect.</p>
+        </div>
+    </main>
+    <footer>
+        <div class="footer-container">
+            <div class="footer-menus">
+                <ul>
+                    <li><a href="index.html">Accueil</a></li>
+                    <li><a href="article.html">Articles</a></li>
+                    <li><a href="sondage.html">Sondages</a></li>
+                    <li><a href="streaming.html">Streaming</a></li>
+                    <li><a href="A_propos.html">À propos</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                    <li><a href="politique_et_confiedentialité.html">Politique de confidentialité</a></li>
+                    <li><a href="termes_et_conditions.html">Termes et conditions</a></li>
+                </ul>
+            </div>
+            <div class="footer-socials">
+                <a href="https://www.facebook.com" target="_blank"><i class="fab fa-facebook-f"></i></a>
+                <a href="https://twitter.com" target="_blank"><i class="fab fa-twitter"></i></a>
+                <a href="https://www.instagram.com" target="_blank"><i class="fab fa-instagram"></i></a>
+                <a href="https://www.tiktok.com" target="_blank"><i class="fab fa-tiktok"></i></a>
+                <a href="https://www.linkedin.com" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+                <a href="https://www.youtube.com" target="_blank"><i class="fab fa-youtube"></i></a>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>&copy; 2024 iStart Séries-TV. Tous droits réservés.</p>
+        </div>
+    </footer>
+    <script src="login.js"></script>
+</body>
+</html>

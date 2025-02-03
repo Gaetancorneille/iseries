@@ -1,0 +1,931 @@
+# Query: iStart
+# ContextLines: 1
+
+198 results - 150 files
+
+À propos.php:
+   32      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   33:     <title>À propos d'iSéries TV</title>
+   34      <link rel="stylesheet" href="menu.css">
+
+   63          <h1>À propos</h1>
+   64:         <h3>Bienvenue sur **iSéries TV**, votre destination incontournable pour tout ce qui concerne les séries télévisées ! Notre site est dédié aux passionnés de séries, offrant des critiques, des articles détaillés, des vidéos, et des informations complètes sur vos séries préférées.</h3>
+   65          <section class="overview">
+
+   73          <section class="overview">
+   74:             <p>Merci de nous rejoindre dans cette aventure passionnante. Nous espérons que vous apprécierez votre visite sur **iSéries TV**</p>
+   75          </section>
+
+  101          <div class="footer-bottom">
+  102:             <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  103          </div>
+
+Acceuil - Copie.html:
+  34      <section class="site-description">
+  35:         <h2>Bienvenue sur i!</h2>
+  36          <p>Découvrez et partagez vos séries TV préférées avec d'autres passionnés</p>
+
+Acceuil.html:
+    5      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    6:     <title>Homepage - iSéries-TV</title>
+    7      <link rel="stylesheet" href="styleacceuil2.css">
+
+   66          <section class="intro">
+   67:             <h1>Bienvenue sur ile meilleur site dédié aux séries TV!</h1>
+   68              <p>Découvrez des analyses, des critiques et des informations exclusives sur vos séries préférées.</p>
+
+  118          <div class="footer-bottom">
+  119:             <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  120          </div>
+
+acceuil2 - Copie.html:
+   5      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   6:     <title>Homepage - iSéries TV</title>
+   7      <link rel="stylesheet" href="acceuillcss2.css">
+
+  27          <section class="intro">
+  28:             <h1>Bienvenue sur ile meilleur site dédié aux séries TV!</h1>
+  29              <p>Découvrez des analyses, des critiques et des informations exclusives sur vos séries préférées.</p>
+
+acceuil2.html:
+  132              <div class="footer-info">
+  133:                 <p>&copy; 2024 iSéries TV</p>
+  134              </div>
+
+article - Copie.html:
+    5      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    6:     <title>Articles - iSéries TV</title>
+    7      <link rel="stylesheet" href="article.css">
+
+  149          <div class="footer-bottom">
+  150:             <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  151          </div>
+
+article.php:
+   12      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   13:     <title>Articles - iSéries TV</title>
+   14      <link rel="stylesheet" href="article.css">
+
+  174          <div class="footer-bottom">
+  175:             <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  176          </div>
+
+article1 - Copie.html:
+  146          <div class="footer-bottom">
+  147:             <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  148          </div>
+
+article1.php:
+  161          <div class="footer-bottom">
+  162:             <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  163          </div>
+
+article2 - Copie.html:
+  133          <div class="footer-bottom">
+  134:             <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  135          </div>
+
+article2.php:
+  148          <div class="footer-bottom">
+  149:             <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  150          </div>
+
+article4.php:
+  145          <div class="footer-bottom">
+  146:             <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  147          </div>
+
+article5.php:
+  135          <div class="footer-bottom">
+  136:             <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  137          </div>
+
+Contact.php:
+   32      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   33:     <title>Contact - iSéries TV</title>
+   34      <link rel="stylesheet" href="menu.css">
+
+   65          <section class="overview">
+   66:             <p>**Adresse E-mail :** support@istartseries.com  
+   67  **Téléphone :** +33 1 23 45 67 89  
+   68  **Adresse Postale :**  
+   69: iSéries TV  
+   70  123 Rue des Séries  
+
+   75              <h2>Suivez-Nous sur les Réseaux Sociaux :</h2>
+   76:             <p>- [Facebook](https://www.facebook.com/istartseries)</p>
+   77:             <p>- [Twitter](https://twitter.com/istartseries)</p>
+   78:             <p>- [Instagram](https://www.instagram.com/istartseries)</p>
+   79          </section>
+
+  108          <div class="footer-bottom">
+  109:             <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  110          </div>
+
+FORM.HTML:
+  73          <div class="footer-bottom">
+  74:             <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  75          </div>
+
+index - Copie.html:
+    5      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    6:     <title>Homepage - iSéries-TV</title>
+    7      <link rel="stylesheet" href="styleacceuil2.css">
+
+   32          <section class="intro">
+   33:             <h1>Bienvenue sur ile meilleur site dédié aux séries TV!</h1>
+   34              <p>Découvrez des analyses, des critiques et des informations exclusives sur vos séries préférées.</p>
+
+  112          <div class="footer-bottom">
+  113:             <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  114          </div>
+
+index.html:
+    5      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    6:     <title>Homepage - iSéries-TV</title>
+    7      <link rel="stylesheet" href="styleacceuil2.css">
+
+   37          <section class="intro">
+   38:             <h1>Bienvenue sur ile meilleur site dédié aux séries TV!</h1>
+   39              <p>Découvrez des analyses, des critiques et des informations exclusives sur vos séries préférées.</p>
+
+  118          <div class="footer-bottom">
+  119:             <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  120          </div>
+
+index.php:
+   12      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   13:     <title>Homepage - iSéries-TV</title>
+   14      <link rel="stylesheet" href="styleacceuil2.css">
+
+   48          <section class="intro">
+   49:             <h1>Bienvenue sur iSéries le meilleur site dédié aux séries TV!</h1>
+   50              <p>Découvrez des analyses, des critiques et des informations exclusives sur vos séries préférées.</p>
+
+  131          <div class="footer-bottom">
+  132:             <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  133          </div>
+
+login - Copie.html:
+  53          <div class="footer-bottom">
+  54:             <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  55          </div>
+
+login.html:
+  56          <div class="footer-bottom">
+  57:             <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  58          </div>
+
+mercredi101 - Copie.html:
+  69          <div class="footer-bottom">
+  70:             <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  71          </div>
+
+mercredi101.html:
+  69          <div class="footer-bottom">
+  70:             <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  71          </div>
+
+mercredi102 - Copie.html:
+  72          <div class="footer-bottom">
+  73:             <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  74          </div>
+
+mercredi102.html:
+  72          <div class="footer-bottom">
+  73:             <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  74          </div>
+
+mercredi103 - Copie.html:
+  72          <div class="footer-bottom">
+  73:             <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  74          </div>
+
+mercredi103.html:
+  72          <div class="footer-bottom">
+  73:             <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  74          </div>
+
+mercredi104 - Copie.html:
+  72          <div class="footer-bottom">
+  73:             <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  74          </div>
+
+mercredi104.html:
+  72          <div class="footer-bottom">
+  73:             <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  74          </div>
+
+mercredi105 - Copie.html:
+  72          <div class="footer-bottom">
+  73:             <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  74          </div>
+
+mercredi105.html:
+  72          <div class="footer-bottom">
+  73:             <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  74          </div>
+
+mercredi106 - Copie.html:
+  72          <div class="footer-bottom">
+  73:             <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  74          </div>
+
+mercredi106.html:
+  72          <div class="footer-bottom">
+  73:             <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  74          </div>
+
+mercredi107 - Copie.html:
+  72          <div class="footer-bottom">
+  73:             <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  74          </div>
+
+mercredi107.html:
+  72          <div class="footer-bottom">
+  73:             <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  74          </div>
+
+mercredi108 - Copie.html:
+  69          <div class="footer-bottom">
+  70:             <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  71          </div>
+
+mercredi108.html:
+  69          <div class="footer-bottom">
+  70:             <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  71          </div>
+
+misql:
+  69          <div class="footer-bottom">
+  70:             <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  71          </div>
+
+nouvel acceuil - Copie.html:
+   5      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   6:     <title>Homepage - iSéries TV</title>
+   7      <link rel="stylesheet" href="nouvel acceuilcss.css">
+
+  29          <section class="intro">
+  30:             <h1>Bienvenue sur ile meilleur site dédié aux séries TV!</h1>
+  31              <p>Découvrez des analyses, des critiques et des informations exclusives sur vos séries préférées.</p>
+
+nouvel acceuil.html:
+   5      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   6:     <title>Homepage - iSéries TV</title>
+   7      <link rel="stylesheet" href="nouvel acceuilcss.css">
+
+  29          <section class="intro">
+  30:             <h1>Bienvenue sur ile meilleur site dédié aux séries TV!</h1>
+  31              <p>Découvrez des analyses, des critiques et des informations exclusives sur vos séries préférées.</p>
+
+Politique de confidentialité.php:
+   32      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   33:     <title>Politique de confidentialité - iSéries TV</title>
+   34      <link rel="stylesheet" href="menu.css">
+
+   63          <h1>Politique de Confidentialité</h1>
+   64:         <h3>Chez **iSéries TV**, la confidentialité de vos données personnelles est une priorité. Cette politique de confidentialité explique comment nous collectons, utilisons et protégeons vos informations lorsque vous utilisez notre site.</h3>
+   65          <section class="overview">
+
+   88          <section class="overview">
+   89:             <p>Pour toute question concernant notre politique de confidentialité, veuillez nous contacter à support@istartseries.com.</p>
+   90          </section>
+
+  116          <div class="footer-bottom">
+  117:             <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  118          </div>
+
+prue.html:
+  68              <div class="footer-info">
+  69:                 <p>&copy; 2024 iSéries TV</p>
+  70              </div>
+
+result.php:
+   4  $password = "";
+   5: $dbname = "istart_series_tv";
+   6  
+
+  25  <head>
+  26:     <title>Résultats du sondage - iSéries TV</title>
+  27      <link rel="stylesheet" type="text/css" href="style.css">
+
+rrrr.html:
+  74          <div class="footer-bottom">
+  75:             <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  76          </div>
+
+search.php:
+  168          <div class="footer-bottom">
+  169:             <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  170          </div>
+
+serie1 - Copie.HTML:
+  201              <div class="footer-bottom">
+  202:                 <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  203              </div>
+
+serie1.HTML:
+  201              <div class="footer-bottom">
+  202:                 <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  203              </div>
+
+serie1.txt:
+  111          </p>
+  112:         <p>&copy; 2024 iSéries-TV</p>
+  113      </footer>
+
+serie2 - Copie.html:
+  648              <div class="footer-bottom">
+  649:                 <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  650              </div>
+
+serie2.html:
+  649              <div class="footer-bottom">
+  650:                 <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  651              </div>
+
+serie3 - Copie.html:
+  116              <div class="footer-bottom">
+  117:                 <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  118              </div>
+
+serie3.html:
+  116              <div class="footer-bottom">
+  117:                 <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  118              </div>
+
+serie6 - Copie.html:
+  126          <div class="footer-bottom">
+  127:             <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  128          </div>
+
+serie6.html:
+  126          <div class="footer-bottom">
+  127:             <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  128          </div>
+
+sond - Copie.html:
+  76              <div class="footer-bottom">
+  77:                 <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  78              </div>
+
+sond.html:
+  76              <div class="footer-bottom">
+  77:                 <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  78              </div>
+
+sondage - Copie.html:
+   5      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   6:     <title>Sondage - iSéries TV</title>
+   7      <link rel="stylesheet" href="sondage.css">
+
+  73          <div class="footer-bottom">
+  74:             <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  75          </div>
+
+sondage1 - Copie.html:
+  76              <div class="footer-bottom">
+  77:                 <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  78              </div>
+
+sondage1.php:
+   99          <div class="footer-bottom">
+  100:             <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  101          </div>
+
+sondage2.php:
+   32      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   33:     <title>Sondage - iSéries TV</title>
+   34      <link rel="stylesheet" href="sondage.css">
+
+  103          <div class="footer-bottom">
+  104:             <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  105          </div>
+
+sondage4 - Copie.html:
+  75              <div class="footer-bottom">
+  76:                 <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  77              </div>
+
+sondage4.html:
+  75              <div class="footer-bottom">
+  76:                 <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  77              </div>
+
+sondage5 - Copie.html:
+  75              <div class="footer-bottom">
+  76:                 <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  77              </div>
+
+sondage5.html:
+  75              <div class="footer-bottom">
+  76:                 <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  77              </div>
+
+sondage6 - Copie.html:
+  75              <div class="footer-bottom">
+  76:                 <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  77              </div>
+
+sondage6.html:
+  75              <div class="footer-bottom">
+  76:                 <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  77              </div>
+
+sondage7 - Copie.html:
+  75              <div class="footer-bottom">
+  76:                 <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  77              </div>
+
+sondage7.html:
+  75              <div class="footer-bottom">
+  76:                 <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  77              </div>
+
+sondage8 - Copie.html:
+  76              <div class="footer-bottom">
+  77:                 <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  78              </div>
+
+sondage8.html:
+  76              <div class="footer-bottom">
+  77:                 <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  78              </div>
+
+sondage9 - Copie.html:
+  75              <div class="footer-bottom">
+  76:                 <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  77              </div>
+
+sondage9.html:
+  75              <div class="footer-bottom">
+  76:                 <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  77              </div>
+
+sondage10 - Copie.html:
+  75              <div class="footer-bottom">
+  76:                 <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  77              </div>
+
+sondage10.html:
+  75              <div class="footer-bottom">
+  76:                 <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  77              </div>
+
+sondage11 - Copie.html:
+  75              <div class="footer-bottom">
+  76:                 <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  77              </div>
+
+sondage11.html:
+  75              <div class="footer-bottom">
+  76:                 <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  77              </div>
+
+sondage12 - Copie.html:
+  75              <div class="footer-bottom">
+  76:                 <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  77              </div>
+
+sondage12.html:
+  75              <div class="footer-bottom">
+  76:                 <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  77              </div>
+
+sondages - Copie.html:
+  76              <div class="footer-bottom">
+  77:                 <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  78              </div>
+
+sondages.html:
+  76              <div class="footer-bottom">
+  77:                 <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  78              </div>
+
+sondagesimple - Copie.html:
+   5      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   6:     <title>Sondage - iSéries TV</title>
+   7      <link rel="stylesheet" href="styles.css">
+
+  11      <header>
+  12:         <h1>Sondage - iSéries TV</h1>
+  13      </header>
+
+sondagesimple.html:
+   5      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   6:     <title>Sondage - iSéries TV</title>
+   7      <link rel="stylesheet" href="styles.css">
+
+  11      <header>
+  12:         <h1>Sondage - iSéries TV</h1>
+  13      </header>
+
+sondagess.php:
+  210          <div class="footer-bottom">
+  211:             <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  212          </div>
+
+stream - Copie.html:
+   5      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   6:     <title>iSéries TV - Streaming</title>
+   7      <link rel="stylesheet" href="stream.css">
+
+  52      <footer>
+  53:         <p>&copy; 2024 iSéries TV. Tous droits réservés.</p>
+  54      </footer>
+
+stream.html:
+   5      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   6:     <title>iSéries TV - Streaming</title>
+   7      <link rel="stylesheet" href="stream.css">
+
+  52      <footer>
+  53:         <p>&copy; 2024 iSéries TV. Tous droits réservés.</p>
+  54      </footer>
+
+streaming - Copie.html:
+    5      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    6:     <title>Streaming - iSéries TV </title>
+    7      <link rel="stylesheet" href="stream.css">
+
+  121          <div class="footer-bottom">
+  122:             <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  123          </div>
+
+streaming.php:
+  151          <div class="footer-bottom">
+  152:             <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  153          </div>
+
+streaming2.php:
+   32      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   33:     <title>Streaming - iSéries TV </title>
+   34      <link rel="stylesheet" href="stream.css">
+
+  151          <div class="footer-bottom">
+  152:             <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  153          </div>
+
+sue.html:
+    5      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    6:     <title>Homepage - iSéries-TV</title>
+    7      <link rel="stylesheet" href="styleacceui.css">
+
+   77          <section class="intro">
+   78:             <h1>Bienvenue sur ile meilleur site dédié aux séries TV!</h1>
+   79              <p>Découvrez des analyses, des critiques et des informations exclusives sur vos séries préférées.</p>
+
+  156          <div class="footer-bottom">
+  157:             <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  158          </div>
+
+survey.php:
+  23      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  24:     <title><?php echo htmlspecialchars($article['title']); ?> - iSéries-TV</title>
+  25      <link rel="stylesheet" href="styleacceuil2.css">
+
+Termes et Conditions.php:
+   32      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   33:     <title>Termes et Conditions - iSéries TV</title>
+   34      <link rel="stylesheet" href="menu.css">
+
+   63          <h1>Termes et Conditions</h1>
+   64:         <h3>Bienvenue sur **iSéries TV**. En utilisant notre site, vous acceptez de vous conformer aux termes et conditions suivants :</h3>
+   65          <section class="overview">
+
+   70              <h2>2. Propriété Intellectuelle</h2>
+   71:             <p>Tous les contenus disponibles sur **iSéries TV**, y compris les textes, images, vidéos et autres éléments, sont la propriété de **iSéries TV** ou de ses concédants de licence. Vous ne devez pas reproduire, distribuer ou créer des œuvres dérivées de notre contenu sans notre autorisation.</p>
+   72          </section>
+
+   74              <h2>3. Droits sur les Images et Vidéos</h2>
+   75:             <p>Nous tenons à préciser que **iSéries TV** ne détient aucun droit de propriété sur les images, vidéos, extraits de séries ou tout autre contenu visuel diffusé sur notre site. Ces éléments sont la propriété de leurs titulaires de droits respectifs, tels que les studios de production, les chaînes de télévision, ou les créateurs de contenu. Les images et vidéos sont utilisées à des fins d'illustration et d'information seulement. Nous faisons tout notre possible pour créditer correctement les sources lorsque cela est possible. Si vous êtes titulaire des droits d'une image ou d'une vidéo publiée sur notre site et que vous souhaitez qu'elle soit retirée, veuillez nous contacter à support@istartseries.com.</p>
+   76          </section>
+
+   93          <section class="overview">
+   94:             <p>Pour toute question concernant nos termes et conditions, veuillez nous contacter à support@istartseries.com</p>
+   95          </section>
+
+  121          <div class="footer-bottom">
+  122:             <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  123          </div>
+
+theflashepisode101 - Copie.html:
+  69          <div class="footer-bottom">
+  70:             <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  71          </div>
+
+theflashepisode101.html:
+  72          <div class="footer-bottom">
+  73:             <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  74          </div>
+
+theflashepisode102 - Copie.html:
+  72          <div class="footer-bottom">
+  73:             <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  74          </div>
+
+theflashepisode102.html:
+  72          <div class="footer-bottom">
+  73:             <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  74          </div>
+
+theflashepisode103 - Copie.html:
+  72          <div class="footer-bottom">
+  73:             <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  74          </div>
+
+theflashepisode103.html:
+  72          <div class="footer-bottom">
+  73:             <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  74          </div>
+
+theflashepisode104 - Copie.html:
+  72          <div class="footer-bottom">
+  73:             <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  74          </div>
+
+theflashepisode104.html:
+  72          <div class="footer-bottom">
+  73:             <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  74          </div>
+
+theflashepisode105 - Copie.html:
+  72          <div class="footer-bottom">
+  73:             <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  74          </div>
+
+theflashepisode105.html:
+  72          <div class="footer-bottom">
+  73:             <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  74          </div>
+
+theflashepisode106 - Copie.html:
+  72          <div class="footer-bottom">
+  73:             <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  74          </div>
+
+theflashepisode106.html:
+  72          <div class="footer-bottom">
+  73:             <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  74          </div>
+
+theflashepisode107 - Copie.html:
+  72          <div class="footer-bottom">
+  73:             <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  74          </div>
+
+theflashepisode107.html:
+  72          <div class="footer-bottom">
+  73:             <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  74          </div>
+
+theflashepisode108 - Copie.html:
+  72          <div class="footer-bottom">
+  73:             <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  74          </div>
+
+theflashepisode108.html:
+  72          <div class="footer-bottom">
+  73:             <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  74          </div>
+
+theflashepisode109 - Copie.html:
+  72          <div class="footer-bottom">
+  73:             <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  74          </div>
+
+theflashepisode109.html:
+  72          <div class="footer-bottom">
+  73:             <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  74          </div>
+
+theflashepisode110 - Copie.html:
+  72          <div class="footer-bottom">
+  73:             <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  74          </div>
+
+theflashepisode110.html:
+  72          <div class="footer-bottom">
+  73:             <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  74          </div>
+
+theflashepisode111 - Copie.html:
+  72          <div class="footer-bottom">
+  73:             <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  74          </div>
+
+theflashepisode111.html:
+  72          <div class="footer-bottom">
+  73:             <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  74          </div>
+
+theflashepisode112 - Copie.html:
+  72          <div class="footer-bottom">
+  73:             <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  74          </div>
+
+theflashepisode112.html:
+  72          <div class="footer-bottom">
+  73:             <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  74          </div>
+
+theflashepisode201 - Copie.html:
+  72          <div class="footer-bottom">
+  73:             <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  74          </div>
+
+theflashepisode201.html:
+  72          <div class="footer-bottom">
+  73:             <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  74          </div>
+
+theflashepisode202 - Copie.html:
+  72          <div class="footer-bottom">
+  73:             <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  74          </div>
+
+theflashepisode202.html:
+  72          <div class="footer-bottom">
+  73:             <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  74          </div>
+
+theflashepisode203 - Copie.html:
+  72          <div class="footer-bottom">
+  73:             <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  74          </div>
+
+theflashepisode203.html:
+  72          <div class="footer-bottom">
+  73:             <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  74          </div>
+
+theflashepisode204 - Copie.html:
+  72          <div class="footer-bottom">
+  73:             <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  74          </div>
+
+theflashepisode204.html:
+  72          <div class="footer-bottom">
+  73:             <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  74          </div>
+
+theflashepisode205 - Copie.html:
+  72          <div class="footer-bottom">
+  73:             <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  74          </div>
+
+theflashepisode205.html:
+  72          <div class="footer-bottom">
+  73:             <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  74          </div>
+
+theflashepisode206 - Copie.html:
+  72          <div class="footer-bottom">
+  73:             <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  74          </div>
+
+theflashepisode206.html:
+  72          <div class="footer-bottom">
+  73:             <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  74          </div>
+
+theflashepisode207 - Copie.html:
+  72          <div class="footer-bottom">
+  73:             <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  74          </div>
+
+theflashepisode207.html:
+  72          <div class="footer-bottom">
+  73:             <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  74          </div>
+
+theflashepisode208 - Copie.html:
+  72          <div class="footer-bottom">
+  73:             <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  74          </div>
+
+theflashepisode208.html:
+  72          <div class="footer-bottom">
+  73:             <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  74          </div>
+
+theflashepisode209 - Copie.html:
+  72          <div class="footer-bottom">
+  73:             <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  74          </div>
+
+theflashepisode209.html:
+  72          <div class="footer-bottom">
+  73:             <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  74          </div>
+
+theflashepisode210 - Copie.html:
+  72          <div class="footer-bottom">
+  73:             <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  74          </div>
+
+theflashepisode210.html:
+  72          <div class="footer-bottom">
+  73:             <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  74          </div>
+
+theflashepisode211 - Copie.html:
+  72          <div class="footer-bottom">
+  73:             <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  74          </div>
+
+theflashepisode211.html:
+  72          <div class="footer-bottom">
+  73:             <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  74          </div>
+
+theflashepisode212 - Copie.html:
+  72          <div class="footer-bottom">
+  73:             <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  74          </div>
+
+theflashepisode212.html:
+  72          <div class="footer-bottom">
+  73:             <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  74          </div>
+
+welco.php:
+  11  <head>
+  12:     <title>Bienvenue - iSéries TV</title>
+  13      <link rel="stylesheet" type="text/css" href="styly.css">
+
+welcom.php:
+  12  <head>
+  13:     <title>Bienvenue - iSéries TV</title>
+  14      <link rel="stylesheet" type="text/css" href="styly.css">
+
+  18          <h2>Bienvenue, <?php echo $_SESSION['nickname']; ?>!</h2>
+  19:         <p>Nous sommes ravis de vous accueillir sur iSéries TV.</p>
+  20          <a href="index - copie.html">Aller à la page d'Accueil</a>
+
+welcome.php:
+   14      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   15:     <title>Homepage - iSéries-TV</title>
+   16      <link rel="stylesheet" href="styleacceuil2.css">
+
+   47          <section class="intro">
+   48:             <h1>Bienvenue sur ile meilleur site dédié aux séries TV!</h1>
+   49              <p>Découvrez des analyses, des critiques et des informations exclusives sur vos séries préférées.</p>
+
+  127          <div class="footer-bottom">
+  128:             <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  129          </div>
+
+you.php:
+  20  <head>
+  21:     <title>Liste des utilisateurs - iSéries TV</title>
+  22      <link rel="stylesheet" type="text/css" href="stylo.css">
+
+ARTICLE\article.php:
+   12      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   13:     <title>Articles - iSéries TV</title>
+   14      <link rel="stylesheet" href="article.css">
+
+  162          <div class="footer-bottom">
+  163:             <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  164          </div>
+
+ARTICLE\article1.php:
+  146          <div class="footer-bottom">
+  147:             <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  148          </div>
+
+ARTICLE\article2.php:
+  133          <div class="footer-bottom">
+  134:             <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  135          </div>
+
+ARTICLE\article4.php:
+  116              <div class="footer-info">
+  117:                 <p>&copy; 2024 iSéries TV</p>
+  118              </div>
+
+SONDAGE\sondage1.php:
+   99          <div class="footer-bottom">
+  100:             <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  101          </div>
+
+SONDAGE\sondage2.php:
+   37      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   38:     <title>Sondage - iSéries TV</title>
+   39      <link rel="stylesheet" href="sondage.css">
+
+  105          <div class="footer-bottom">
+  106:             <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  107          </div>
+
+SONDAGE\sondagess.php:
+  212          <div class="footer-bottom">
+  213:             <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  214          </div>
+
+STREAMING\streaming.php:
+  143          <div class="footer-bottom">
+  144:             <p>&copy; 2024 iSéries-TV. Tous droits réservés.</p>
+  145          </div>

@@ -1,0 +1,182 @@
+# Query: iStart séries tv
+# ContextLines: 1
+
+39 results - 26 files
+
+À propos.php:
+  32      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  33:     <title>À propos d'iSéries TV</title>
+  34      <link rel="stylesheet" href="menu.css">
+
+  63          <h1>À propos</h1>
+  64:         <h3>Bienvenue sur **iSéries TV**, votre destination incontournable pour tout ce qui concerne les séries télévisées ! Notre site est dédié aux passionnés de séries, offrant des critiques, des articles détaillés, des vidéos, et des informations complètes sur vos séries préférées.</h3>
+  65          <section class="overview">
+
+  73          <section class="overview">
+  74:             <p>Merci de nous rejoindre dans cette aventure passionnante. Nous espérons que vous apprécierez votre visite sur **iSéries TV**</p>
+  75          </section>
+
+acceuil2 - Copie.html:
+  5      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  6:     <title>Homepage - iSéries TV</title>
+  7      <link rel="stylesheet" href="acceuillcss2.css">
+
+acceuil2.html:
+  132              <div class="footer-info">
+  133:                 <p>&copy; 2024 iSéries TV</p>
+  134              </div>
+
+article - Copie.html:
+  5      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  6:     <title>Articles - iSéries TV</title>
+  7      <link rel="stylesheet" href="article.css">
+
+article.php:
+  12      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  13:     <title>Articles - iSéries TV</title>
+  14      <link rel="stylesheet" href="article.css">
+
+Contact.php:
+  32      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  33:     <title>Contact - iSéries TV</title>
+  34      <link rel="stylesheet" href="menu.css">
+
+  68  **Adresse Postale :**  
+  69: iSéries TV  
+  70  123 Rue des Séries  
+
+nouvel acceuil - Copie.html:
+  5      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  6:     <title>Homepage - iSéries TV</title>
+  7      <link rel="stylesheet" href="nouvel acceuilcss.css">
+
+nouvel acceuil.html:
+  5      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  6:     <title>Homepage - iSéries TV</title>
+  7      <link rel="stylesheet" href="nouvel acceuilcss.css">
+
+Politique de confidentialité.php:
+  32      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  33:     <title>Politique de confidentialité - iSéries TV</title>
+  34      <link rel="stylesheet" href="menu.css">
+
+  63          <h1>Politique de Confidentialité</h1>
+  64:         <h3>Chez **iSéries TV**, la confidentialité de vos données personnelles est une priorité. Cette politique de confidentialité explique comment nous collectons, utilisons et protégeons vos informations lorsque vous utilisez notre site.</h3>
+  65          <section class="overview">
+
+prue.html:
+  68              <div class="footer-info">
+  69:                 <p>&copy; 2024 iSéries TV</p>
+  70              </div>
+
+result.php:
+  25  <head>
+  26:     <title>Résultats du sondage - iSéries TV</title>
+  27      <link rel="stylesheet" type="text/css" href="style.css">
+
+sondage - Copie.html:
+  5      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  6:     <title>Sondage - iSéries TV</title>
+  7      <link rel="stylesheet" href="sondage.css">
+
+sondage2.php:
+  32      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  33:     <title>Sondage - iSéries TV</title>
+  34      <link rel="stylesheet" href="sondage.css">
+
+sondagesimple - Copie.html:
+   5      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   6:     <title>Sondage - iSéries TV</title>
+   7      <link rel="stylesheet" href="styles.css">
+
+  11      <header>
+  12:         <h1>Sondage - iSéries TV</h1>
+  13      </header>
+
+sondagesimple.html:
+   5      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   6:     <title>Sondage - iSéries TV</title>
+   7      <link rel="stylesheet" href="styles.css">
+
+  11      <header>
+  12:         <h1>Sondage - iSéries TV</h1>
+  13      </header>
+
+stream - Copie.html:
+   5      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   6:     <title>iSéries TV - Streaming</title>
+   7      <link rel="stylesheet" href="stream.css">
+
+  52      <footer>
+  53:         <p>&copy; 2024 iSéries TV. Tous droits réservés.</p>
+  54      </footer>
+
+stream.html:
+   5      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   6:     <title>iSéries TV - Streaming</title>
+   7      <link rel="stylesheet" href="stream.css">
+
+  52      <footer>
+  53:         <p>&copy; 2024 iSéries TV. Tous droits réservés.</p>
+  54      </footer>
+
+streaming - Copie.html:
+  5      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  6:     <title>Streaming - iSéries TV </title>
+  7      <link rel="stylesheet" href="stream.css">
+
+streaming2.php:
+  32      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  33:     <title>Streaming - iSéries TV </title>
+  34      <link rel="stylesheet" href="stream.css">
+
+Termes et Conditions.php:
+  32      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  33:     <title>Termes et Conditions - iSéries TV</title>
+  34      <link rel="stylesheet" href="menu.css">
+
+  63          <h1>Termes et Conditions</h1>
+  64:         <h3>Bienvenue sur **iSéries TV**. En utilisant notre site, vous acceptez de vous conformer aux termes et conditions suivants :</h3>
+  65          <section class="overview">
+
+  70              <h2>2. Propriété Intellectuelle</h2>
+  71:             <p>Tous les contenus disponibles sur **iSéries TV**, y compris les textes, images, vidéos et autres éléments, sont la propriété de **iSéries TV** ou de ses concédants de licence. Vous ne devez pas reproduire, distribuer ou créer des œuvres dérivées de notre contenu sans notre autorisation.</p>
+  72          </section>
+
+  74              <h2>3. Droits sur les Images et Vidéos</h2>
+  75:             <p>Nous tenons à préciser que **iSéries TV** ne détient aucun droit de propriété sur les images, vidéos, extraits de séries ou tout autre contenu visuel diffusé sur notre site. Ces éléments sont la propriété de leurs titulaires de droits respectifs, tels que les studios de production, les chaînes de télévision, ou les créateurs de contenu. Les images et vidéos sont utilisées à des fins d'illustration et d'information seulement. Nous faisons tout notre possible pour créditer correctement les sources lorsque cela est possible. Si vous êtes titulaire des droits d'une image ou d'une vidéo publiée sur notre site et que vous souhaitez qu'elle soit retirée, veuillez nous contacter à support@istartseries.com.</p>
+  76          </section>
+
+welco.php:
+  11  <head>
+  12:     <title>Bienvenue - iSéries TV</title>
+  13      <link rel="stylesheet" type="text/css" href="styly.css">
+
+welcom.php:
+  12  <head>
+  13:     <title>Bienvenue - iSéries TV</title>
+  14      <link rel="stylesheet" type="text/css" href="styly.css">
+
+  18          <h2>Bienvenue, <?php echo $_SESSION['nickname']; ?>!</h2>
+  19:         <p>Nous sommes ravis de vous accueillir sur iSéries TV.</p>
+  20          <a href="index - copie.html">Aller à la page d'Accueil</a>
+
+you.php:
+  20  <head>
+  21:     <title>Liste des utilisateurs - iSéries TV</title>
+  22      <link rel="stylesheet" type="text/css" href="stylo.css">
+
+ARTICLE\article.php:
+  12      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  13:     <title>Articles - iSéries TV</title>
+  14      <link rel="stylesheet" href="article.css">
+
+ARTICLE\article4.php:
+  116              <div class="footer-info">
+  117:                 <p>&copy; 2024 iSéries TV</p>
+  118              </div>
+
+SONDAGE\sondage2.php:
+  37      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  38:     <title>Sondage - iSéries TV</title>
+  39      <link rel="stylesheet" href="sondage.css">

@@ -1,0 +1,148 @@
+/* styles.css */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #333;
+    padding: 10px;
+    color: white;
+}
+
+.logo img {
+    width: 100px;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+nav ul li {
+    margin: 0 10px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+.search-bar input {
+    padding: 5px;
+    border: none;
+    border-radius: 5px;
+}
+
+main {
+    padding: 20px;
+}
+
+.hot-news, .quartiers {
+    margin-bottom: 20px;
+}
+
+.hot-news h2, .quartiers h2 {
+    color: #e67e22;
+    border-bottom: 2px solid #e67e22;
+    display: inline-block;
+}
+
+.news-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.news-container article {
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    width: 30%;
+}
+
+.news-container article img {
+    width: 100%;
+    border-radius: 5px;
+}
+
+.quartiers article {
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.quartiers .highlighted-news {
+    display: flex;
+    align-items: center;
+}
+
+.quartiers .highlighted-news img {
+    width: 150px;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+
+.quartiers .highlighted-news h3 {
+    margin: 0;
+}
+
+.quartiers .highlighted-news p {
+    margin: 5px 0;
+}
+
+.quartiers .highlighted-news button {
+    padding: 5px 10px;
+    border: none;
+    background-color: #e67e22;
+    color: white;
+    border-radius: 5px;
+}
+
+.quartiers .highlighted-news a {
+    text-decoration: none;
+    color: #e67e22;
+}
+
+aside {
+    padding: 20px;
+    background-color: #fff;
+    margin-top: 20px;
+}
+
+aside h3 {
+    color: #e67e22;
+    border-bottom: 2px solid #e67e22;
+    display: inline-block;
+}
+
+aside ul {
+    list-style: none;
+    padding: 0;
+}
+
+aside ul li {
+    margin: 10px 0;
+}
+
+aside ul li span {
+    font-weight: bold;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}

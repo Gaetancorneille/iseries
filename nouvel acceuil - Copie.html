@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Homepage - iStart Séries TV</title>
+    <link rel="stylesheet" href="nouvel acceuilcss.css">
+</head>
+<body>
+    <header>
+        <img src="logo.png" alt="Site Logo" class="logo">
+        <div class="search-bar">
+            <input type="text" placeholder="Rechercher...">
+            <button type="button">Search</button>
+        </div>
+        <div class="auth-menu">
+            <a href="login.html">Connexion</a>
+        </div>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#">Accueil</a></li>
+            <li><a href="#">Sondage</a></li>
+            <li><a href="#">Articles</a></li>
+            <li><a href="#">Streaming</a></li>
+        </ul>
+    </nav>
+    <main>
+        <section class="intro">
+            <h1>Bienvenue sur iStart le meilleur site dédié aux séries TV!</h1>
+            <p>Découvrez des analyses, des critiques et des informations exclusives sur vos séries préférées.</p>
+        </section>
+        <section class="articles-preview">
+            <h2>Découvrez quelques-uns de nos articles</h2>
+            <div class="article-nav">
+                <button class="nav-arrow" id="prev-arrow">&#9664;</button>
+                <div class="articles-container">
+                    <div class="article" onclick="window.location.href='article1.html'">
+                        <img src="charmed.png" alt="Article 1">
+                        <h3>Analyse de Charmed</h3>
+                    </div>
+                    <div class="article" onclick="window.location.href='article2.html'">
+                        <img src="onceuponatime.png" alt="Article 2">
+                        <h3>Les secrets de Once Upon a Time</h3>
+                    </div>
+                    <div class="article" onclick="window.location.href='article3.html'">
+                        <img src="Screenshot_20231017-210654.jpg" alt="Article 3">
+                        <h3>Les meilleurs moments de Bones</h3>
+                    </div>
+                    <div class="article" onclick="window.location.href='article4.html'">
+                        <img src="Screenshot_20231017-211345.jpg" alt="Article 4">
+                        <h3>Suits: Avocats sur Mesure</h3>
+                    </div>
+                    <div class="article" onclick="window.location.href='article5.html'">
+                        <img src="Screenshot_20231017-210531.jpg" alt="Article 5">
+                        <h3>Les moments inoubliables de Friends</h3>
+                    </div>
+                    <div class="article" onclick="window.location.href='article6.html'">
+                        <img src="Screenshot_20231017-211445.jpg" alt="Article 6">
+                        <h3>Lucifer: Au-delà de l'enfer</h3>
+                    </div>
+                    <div class="article" onclick="window.location.href='article7.html'">
+                        <img src="Screenshot_20231017-211543.jpg" alt="Article 7">
+                        <h3>Les mystères de Mercredi</h3>
+                    </div>
+                </div>
+                <button class="nav-arrow" id="next-arrow">&#9654;</button>
+            </div>
+        </section>
+        <section class="surveys-preview">
+            <h2>Participer à nos sondages</h2>
+            <div class="survey" onclick="window.location.href='sondage.html'">
+                <img src="survey_image.jpg" alt="Survey">
+                <h3>Quel est votre genre de série préféré ?</h3>
+            </div>
+        </section>
+        <section class="streaming-preview">
+            <h2>Regardez vos séries en ligne</h2>
+            <div class="stream" onclick="window.location.href='streaming.html'">
+                <img src="streaming_image.jpg" alt="Streaming">
+                <h3>Découvrez les séries en streaming</h3>
+            </div>
+        </section>
+    </main>
+    <footer>
+        <p>Suivez-nous sur :
+<a href="https://www.facebook.com"><img src="logo_facebook.png" alt="Facebook"></a>
+            <a href="https://www.twitter.com"><img src="logo_twtitter.png" alt="Twitter"></a>
+            <a href="https://www.instagram.com"><img src="logo_instagram.png" alt="Instagram"></a>
+            <a href="https://www.tiktok.com"><img src="logo_tiktok.png" alt="Tik Tok"></a>
+        </p>
+        <p>&copy; 2024 Votre Site de Séries TV</p>
+    </footer>
+    <script src="scripts.js"></script>
+</body>
+</html>
